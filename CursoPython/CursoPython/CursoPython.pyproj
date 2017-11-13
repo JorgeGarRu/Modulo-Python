@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c36847ba-1c56-405b-a9d1-aa3338b126a4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Ejercicios 2,3 y 4 pag 46.py</StartupFile>
+    <StartupFile>Ejercicios de Python\Ejercicio 19.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,72 @@
   <ItemGroup>
     <Compile Include="CursoPython.py" />
     <Compile Include="Ejercicios 2,3 y 4 pag 46.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 10.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 11.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 12.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 13.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 14.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 15.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 16.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 17.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 18.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 19.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 20.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 3.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio 9.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Ejercicio8.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\Test.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicios de Python\__init__.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Ejercicios\Ejemplo diccionarios.py">
@@ -58,6 +124,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Ejercicios\" />
+    <Folder Include="Ejercicios de Python\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
